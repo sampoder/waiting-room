@@ -8,7 +8,7 @@ const Meta = ({
   title = 'Sam Poder \'s Meeting Room', // page title
   name = 'Sam Poder \'s Meeting Room', // site name
   description = 'Meet with Sam Poder over Zoom.', // page description
-  image = 'https://cloud-52slfjw0v-hack-club-bot.vercel.app/0leparty-2.png', // social card image URL
+  image = 'https://cloud-8vaqneogh-hack-club-bot.vercel.app/0leparty-3.png', // social card image URL
   url = 'https://zoom.sampoder.com',
   children,
 }) => (
