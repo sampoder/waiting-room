@@ -5,11 +5,11 @@ const makeTitle = (title, name) =>
   title === name ? title : `${title} – ${name}`
 
 const Meta = ({
-  title = 'Theme Starter', // page title
-  name = 'Theme Starter', // site name
-  description = 'This website was bootstrapped with @lachlanjc’s Next.js Theme Starter.', // page description
-  image = '', // social card image URL
-  url = 'https://next-theme-starter.vercel.app',
+  title = 'Sam Poder \'s Meeting Room', // page title
+  name = 'Sam Poder \'s Meeting Room', // site name
+  description = 'Meet with Sam Poder over Zoom.', // page description
+  image = 'https://cloud-52slfjw0v-hack-club-bot.vercel.app/0leparty-2.png', // social card image URL
+  url = 'https://zoom.sampoder.com',
   children,
 }) => (
   <Head>
